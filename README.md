@@ -1,0 +1,1 @@
+A "website for change", spreading awareness about the educational inequity resulting from insufficient funding of low-income districts.

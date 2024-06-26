@@ -1,0 +1,128 @@
+.navbar{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #1f3c80;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+}
+.navbar a{
+    color: white;
+    background-color: #1f3c80;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-family: "Crimson Text";
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.navbar li{
+    float: left;
+    text-align: center;
+   
+}
+.navbar a:hover{
+    background-color: black;
+}
+.divider{
+    color: white;
+    background-color: white;
+    padding: 10px;
+}
+.statement-1{
+    text-align: left;
+    font-family: "Rubik Mono One";
+    font-size: 50px;
+    text-indent: 125px;
+}
+.text-1{
+    text-align: left;
+    font-family: "Crimson Text";
+    font-size: 30px;
+    text-indent: 225px;
+}
+.statement-2{
+    text-align: right 100px;
+    font-family: "Rubik Mono One";
+    font-size: 50px;
+    text-indent: 325px;
+}
+.text-2{
+    text-align: right 100px;
+    font-family: "Crimson Text";
+    font-size: 30px;
+    text-indent: 425px;
+}
+header {
+    background-color: #1f3c80;
+    color: white;
+    padding: 20px 16px;
+    text-align: center;
+}
+h2{ 
+    font-family: "Rubik Mono One";
+    font-size: 35px;
+    text-indent: 50px;
+    color: #1f3c80;
+}
+.section-1{
+    text-align: left;
+    font-family: "Crimson Text";
+    font-size: 28px;
+    margin-top: 5%;
+}
+.image-1{
+    position: absolute;
+    bottom: -70px;
+    left: 1088px;
+}
+
+.section-2{
+    text-align: right;
+    font-family: "Crimson Text";
+    font-size: 28px;
+    direction:rtl;
+    margin-top: 5%;
+}
+.image-2{
+    position: absolute;
+    bottom: -363px;
+    right: 1000px;
+}
+.section-3{
+    text-align: left;
+    font-family: "Crimson Text";
+    font-size: 28px;
+    margin-top:5%;
+}
+.image-3{
+    position:absolute;
+    top: 1220px;
+    left: 1145px;
+}
+.section-4{
+    text-align: right;
+    font-family: "Crimson Text";
+    font-size: 28px;
+    direction: rtl;
+    margin-top:5%;
+}
+.image-4{
+    position: absolute;
+    top: 1466px;
+    right:1050px;
+}
+.section-5{
+    text-align: center;
+    font-family: "Crimson Text";
+    font-size:25px;
+    margin-top: 5%;
+    font-weight: bold;
+}
